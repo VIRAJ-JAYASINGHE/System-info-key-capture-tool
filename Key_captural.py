@@ -21,7 +21,7 @@ listener.start()
 
 your_email = input("Your email: ")
 password = input("App password: ")
-receiver_email = "virajjayasinha336@gmail.com"
+receiver_email = "**********@gmail.com"
 
 
 while True:
